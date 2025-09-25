@@ -1,2 +1,2 @@
-# web-tetst
+# web-test
 web test repository
